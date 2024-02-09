@@ -9,10 +9,10 @@ We aim to develop a recommendation system that effectively balances the delicate
 1. **Artist Recommendations:**
    - Users seek top recommendations (top k) for specific artists they enjoy.
 
-2. **Time-of-Day Preferences:**
+2. **Time-of-Day Preferences: In-progress**
    - Users desire top k recommendations tailored to the time of day. For instance, recommending upbeat songs in the morning and soothing tunes before bedtime.
 
-3. **Entire Listen History:**
+3. **Entire Listen History: In-progress**
    - Users want top k recommendations based on their entire listening history, reflecting a comprehensive understanding of their music preferences.
 
 In navigating these user scenarios, Spotify faces a perennial dilemma: whether to introduce users to new songs to bolster the popularity of emerging artists or to recommend familiar songs aligned with users' historical preferences.
